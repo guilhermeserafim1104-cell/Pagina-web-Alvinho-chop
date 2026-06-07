@@ -98,8 +98,8 @@ address{
 
 @media (max-width:1027){
     .conteudo{
-        border-right: none;
-        border-left: none;
+        border-right: 0;
+        border-left: 0;
         flex-direction: column;
     }
 }
