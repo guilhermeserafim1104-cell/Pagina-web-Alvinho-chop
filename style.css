@@ -95,16 +95,3 @@ address{
     margin-bottom: 15px;
     font-size: 25px;
 }
-
-@media (min-width:768px){
-    .logo3{
-        width: 200px;
-    }
-    
-    .conteudo{
-        border-right: none;
-        border-left: none;
-        flex-direction: column;
-        text-align: center;
-    }
-}
