@@ -96,7 +96,7 @@ address{
     font-size: 25px;
 }
 
-@media (max-width:1027){
+@media (min-width:768px){
     .logo3{
         width: 200px;
     }
